@@ -1,0 +1,1 @@
+Este é um trabalho que criei enquanto melhoro minhas habilidades em JavaScript. Ao ser iniciado, as horas serão exibidas, acompanhadas de uma imagem logo abaixo e com a respectiva cor de fundo, dependendo do horário.
